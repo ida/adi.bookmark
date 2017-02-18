@@ -35,7 +35,7 @@ bookmarks to, append '/adi_bookmark' to the URL in your browser, drag'n'drop
 the offered link to your browser's bookmark-bar.
 
 Optionally, you can get the bookmarklet without installing, from:
-
+http://euve4703.vserver.de:8080/adi/static/public/repos/github/ida/adi.bookmark/adi/bookmark/skins/adi_bookmark/adi_bookmark.pt
 There enter the Plone-folder-destination before drag'n'dropping the link.
 
 
@@ -56,7 +56,7 @@ TODO
 ----
 
 - Decode strings before passing as URL-params. Special characters will likely
-blow things up, not tested, yet.
+  blow things up, not tested, yet.
 
 - Support keywords a.k.a. tags.
 
