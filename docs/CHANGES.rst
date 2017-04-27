@@ -2,7 +2,7 @@ Changelog for adi.bookmark
 ==============
 
 
-0.2 (unreleased)
+0.2 (2017-04-27)
 ----------------
 
 - Get dest-URL before composing bookmarkletJs.
