@@ -4,6 +4,7 @@ Changelog for adi.bookmark
 
 0.2 (unreleased)
 ----------------
+- Get dest-URL before composing bookmarkletJs.. [fedora]
 
 - Nothing changed yet.
 
